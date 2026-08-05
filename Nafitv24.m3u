@@ -11,7 +11,7 @@ https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 https://tvsen6.aynaott.com/btvctg/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV NEWS" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" group-title="BANGLA",BTV NEWS
-https://tvsen6.aynaott.com/BTVNews/tracks-v1a1/mono.ts.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co.com/Y4W1JNn2/Picsart-24-10-18-14-23-02-130.webp" group-title="BANGLA",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
@@ -65,7 +65,7 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Boishaki" tvg-logo="https://i.ibb.co.com/RGKb7KqL/Picsart-24-10-22-17-24-17-694.webp" group-title="BANGLA",Boishaki
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 #EXTINF:-1 tvg-name="BIZOY" tvg-logo="https://i.ibb.co.com/d0YPmKH1/Picsart-24-10-18-13-03-39-216.webp" group-title="BANGLA",BIZOY
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
@@ -77,7 +77,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 
 #EXTINF:-1 tvg-name="EkusyETV" tvg-logo="https://i.ibb.co.com/bRg8Pbp9/Picsart-24-10-18-14-54-54-079.webp" group-title="BANGLA",EkusyETV
-https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="Ananda" tvg-logo="https://i.ibb.co.com/xqMZqHCk/Picsart-24-10-18-14-50-35-994.webp" group-title="BANGLA",Ananda
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
@@ -160,6 +160,10 @@ https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
 #EXTINF:-1 tvg-name="Toffee Darma" tvg-logo="https://i.ibb.co.com/dJHzrR4r/Picsart-25-12-08-06-54-03-261.webp" group-title="BANGLA",Toffee Darma
 https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
 
+#EXTINF:-1 tvg-name="EP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIhMX_FDFIWuPia-wHxKo5Z3I_AxQxkkzs3_aBfBzEw&s=10" group-title="BANGLA",Channel A1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Channel A1" tvg-logo="https://i.ibb.co.com/xqSWHfDB/Picsart-25-11-12-18-02-46-419.webp" group-title="BANGLA",Channel A1
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 
@@ -186,7 +190,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjCIfsHlO6Cg2v92-BpWx-f2UPjmmQxqRLBgAC_god5pvJyuyQIhXXWaGrpEg-11PrvQ312X6S0Npb-tWGfuCloQdn5O7sGbpNgLD2WxdPuqyDXELGr8TCSHnR7e5LMmnDHwApsm5MUob_Z0urgfY7wuHoHFdPY0M-a_nJchKyzX6q68mmLhF8uKAWVM/s1600/Rajdhani.tvLogowithBengaliText_copy_900x900_1.png" group-title="BANGLA",Rajdhani TV
-https://iptvbd.live/rajdhanitv/1080.m3u8
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-name="ChanelA1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAbqwmkTqJ6hZgIO_5cM_QVycG-R6f7g13VnGDhF1TDIe5bWHUOmDPiZOwtSojCOCVwa7oT61RRML0s3f1yYaKxdc12u8fmH8wHSx_aVXDYKMiIA9QEkHwQeMqwSyabJPNLuIV_7UjbPymQGXF_ETodINfLdsCafQhh0jjeRkgqXz6eXU3md-2rhPzxxQ/s1600/ChannelA1LogoDesign_copy_900x900.png" group-title="BANGLA",ChanelA1
 https://iptvbd.live/channela1/1080.m3u8
