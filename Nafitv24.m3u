@@ -1,25 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="FM" tvg-logo="https://s3.aynaott.com/storage/d51be74cd5c23e19cb7e8c81029c2af9" group-title="BANGLA",FM
-https://stream.spicefmbd.com/stream.m3u8
-
-#EXTINF:-1 tvg-name="FM 91.6" tvg-logo="https://i.ibb.co.com/rfQbkjH7/Picsart-25-12-08-06-54-33-449.webp" group-title="BANGLA",FM 91.6
-https://anym3u8player.com/ultimate-player-generator/player.php?player=jwplayer&url=https%3A%2F%2Fradio.garden%2Fapi%2Fara%2Fcontent%2Flisten%2FD7KIjtwq%2Fchannel.mp3%3F1765988326145&autoplay=1&controls=auto&theme=default&logo=1&logo_url=https%3A%2F%2Fi.ibb.co.com%2FCN1xbMr%2FPicsart-25-11-14-12-31-20-494.webp&logo_pos=top-right&logo_opacity=0.8&logo_width=100&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16%3A9
-
-#EXTINF:-1 tvg-name="Toffee Movie" tvg-logo="https://i.ibb.co.com/rfQbkjH7/Picsart-25-12-08-06-54-33-449.webp" group-title="BANGLA",Toffee Movie
-https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
-
-#EXTINF:-1 tvg-name="Toffee Darma" tvg-logo="https://i.ibb.co.com/dJHzrR4r/Picsart-25-12-08-06-54-03-261.webp" group-title="BANGLA",Toffee Darma
-https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
-
-#EXTINF:-1 tvg-name="Channel A1" tvg-logo="https://i.ibb.co.com/xqSWHfDB/Picsart-25-11-12-18-02-46-419.webp" group-title="BANGLA",Channel A1
-https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
-
-#EXTINF:-1 tvg-name="PCV TV" tvg-logo="https://i.ibb.co.com/TDRj4C5c/Picsart-25-11-01-21-09-16-553.webp" group-title="BANGLA",PCV TV
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-
-#EXTINF:-1 tvg-name="Sami TV" tvg-logo="https://i.ibb.co.com/39MPnkNw/Picsart-25-11-01-21-13-16-153.webp" group-title="BANGLA",Sami TV
-https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Sangshad" tvg-logo="https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp" group-title="BANGLA",Sangshad
 https://bozztv.com/rongo/rongo-SangsadTV/tracks-v1a1/mono.m3u8
@@ -67,7 +47,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Somoy" tvg-logo="https://i.ibb.co.com/JDkcwPP/Picsart-24-10-22-13-58-43-282.webp" group-title="BANGLA",Somoy
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 tvg-name="Chanel24" tvg-logo="https://i.ibb.co.com/V028Q8Ls/Picsart-24-10-18-14-46-30-819.webp" group-title="BANGLA",Chanel24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -82,10 +62,10 @@ https://tvsen6.aynaott.com/news24/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Masranga" tvg-logo="https://i.ibb.co.com/wFbkrXH3/Picsart-24-10-22-16-11-10-240.webp" group-title="BANGLA",Masranga
-https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Boishaki" tvg-logo="https://i.ibb.co.com/RGKb7KqL/Picsart-24-10-22-17-24-17-694.webp" group-title="BANGLA",Boishaki
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="BIZOY" tvg-logo="https://i.ibb.co.com/d0YPmKH1/Picsart-24-10-18-13-03-39-216.webp" group-title="BANGLA",BIZOY
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
@@ -106,22 +86,22 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co.com/fdXqypgk/Picsart-24-10-31-12-11-00-605.webp" group-title="BANGLA",GTV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://i.ibb.co.com/wFyZ7nnD/Picsart-25-11-17-13-42-58-759.webp" group-title="BANGLA",Channel 1
 https://www.youtube.com/embed/-DTlK2cdxN4
 
 #EXTINF:-1 tvg-name="MYTV" tvg-logo="https://i.ibb.co.com/ccrYHLPT/Picsart-24-10-18-14-30-48-417.webp" group-title="BANGLA",MYTV
-https://mytvbangla.com/0.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.ibb.co.com/fVQD2F6G/Picsart-24-10-18-15-01-52-492.webp" group-title="BANGLA",RTV
-https://tvsen6.aynaott.com/rtv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="SATV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaEpd97uZNns9EW_jLaC-lRAEXjuylOmMvw-XWv7blxeyiFvPxifl6LXPctXf9TwztOLLcRfTxX8LajV4voA6k17ifZqKbNWOMOnDKzTtXe79qoS80kipeAskonQAXh5A8oQKhqwJ26OOde-WizLAFWsEvsXW1Tx2j3jeZoeM_D9GLCcaYFMaoL8sv86mQ/s2048/Picsart_24-10-18_14-32-26-697.png" group-title="BANGLA",SATV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DeshTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkv1XFoqZItO9kGKsvZo3MO_at4RBTfikm6FW76153WTMq7tnchiEISGu4W9RCncJqdAc-k_-ej4okUz0709QVmOl0GE2ESnv3IqsR-mKc7pGytSLPrvPJLpDj4WK6CvYFScSwKoEf79jViFyxLlN9RAiBrjMoE0IGudiws8Bzrh7vYVPtLseFVHntIp8W/s2048/Picsart_24-10-18_14-28-09-183.png" group-title="BANGLA",DeshTV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BanglaTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXS_Wao7T7gL3JMj-kKRpy554D8Xiyd7bP5B_qcibgVHSBhKS4gKSkiLih6XwHad4I0qL5y3FcwufQi2waqTCpCV__VIpIoSab5uXMenAO2xPdWcq-IbYQEfoS1Fq8K1yp56QVvzIEfFkBBIrHW6D-Vsa8pG9na106CYpzc0RUAlxpMXxo3Oai1bB9Znt/s2048/Picsart_24-10-18_14-58-47-771.png" group-title="BANGLA",BanglaTV
 https://tvsen6.aynaott.com/banglatv/index.m3u8
@@ -168,8 +148,30 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-name="NatokBD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7AA6JoJfhE07FTDgEoKr7lg66z3kVVf0K_V0tW-_3ZZzVWLtVNQbEnbOeQulkks6aoPtydJpw1Rj_8jkhTa1QSvwz2SGqZ8bDsbnZEpQBbZ4MXKWTe4AM8jRMd-tmd8jqFHTaEEw9SKNK1-FFVAwMn9fkvsOQ-JYNZnWD9T7FgI-lJsQBoTrzcuAoNM/s1600/NadimRazaT554547.png" group-title="BANGLA",NatokBD
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
+#EXTINF:-1 tvg-name="FM" tvg-logo="https://s3.aynaott.com/storage/d51be74cd5c23e19cb7e8c81029c2af9" group-title="BANGLA",FM
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 tvg-name="FM 91.6" tvg-logo="https://i.ibb.co.com/rfQbkjH7/Picsart-25-12-08-06-54-33-449.webp" group-title="BANGLA",FM 91.6
+https://anym3u8player.com/ultimate-player-generator/player.php?player=jwplayer&url=https%3A%2F%2Fradio.garden%2Fapi%2Fara%2Fcontent%2Flisten%2FD7KIjtwq%2Fchannel.mp3%3F1765988326145&autoplay=1&controls=auto&theme=default&logo=1&logo_url=https%3A%2F%2Fi.ibb.co.com%2FCN1xbMr%2FPicsart-25-11-14-12-31-20-494.webp&logo_pos=top-right&logo_opacity=0.8&logo_width=100&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&no_download=1&width=responsive&aspect=16%3A9
+
+#EXTINF:-1 tvg-name="Toffee Movie" tvg-logo="https://i.ibb.co.com/rfQbkjH7/Picsart-25-12-08-06-54-33-449.webp" group-title="BANGLA",Toffee Movie
+https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
+
+#EXTINF:-1 tvg-name="Toffee Darma" tvg-logo="https://i.ibb.co.com/dJHzrR4r/Picsart-25-12-08-06-54-03-261.webp" group-title="BANGLA",Toffee Darma
+https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
+
+#EXTINF:-1 tvg-name="Channel A1" tvg-logo="https://i.ibb.co.com/xqSWHfDB/Picsart-25-11-12-18-02-46-419.webp" group-title="BANGLA",Channel A1
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+
+#EXTINF:-1 tvg-name="PCV TV" tvg-logo="https://i.ibb.co.com/TDRj4C5c/Picsart-25-11-01-21-09-16-553.webp" group-title="BANGLA",PCV TV
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+
+#EXTINF:-1 tvg-name="Sami TV" tvg-logo="https://i.ibb.co.com/39MPnkNw/Picsart-25-11-01-21-13-16-153.webp" group-title="BANGLA",Sami TV
+https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Nexus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiU9rhbVdE2zlqNzhNUyFjTvT7JnPzeuQ3-FG0nauuMW8Tc9cpA-y1QDWnXwRwt60okxgPy-8ALa3_QIT8K573axEWe0F0UJyiS56Z7JoTXIxbSyfEV_8vmePmXLEChkQpWqFgWNO-JDZZbMmAwNyqJjhhYHANALxIqv26x1h2wbxQ0r33Z9HV7oN4_iI/s1600/NadimRazaTV%2014144.png" group-title="BANGLA",Nexus
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd19vxpcMHx3ondHgqbE9vHZ16plp1jjFpnsEiW7w_5IWgD-kxSXSwdiKxBAoH1eOK9KoaXflxLXze8ekH41Xee4gKEctc9CNMhk-Lnnz3ea4fszTbK9j0SZy-5LnYlp4atsq1ErWkGFU7zF6sSX8IduXI5CkUqgwAZoz8JURQqhr4bJIZE3-tZmr77Dc/s1600/NadimRazaTV%2014514.png" group-title="BANGLA",Music
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8
