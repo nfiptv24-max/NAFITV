@@ -1,0 +1,15 @@
+{
+            id: "2",
+            name: "SL-W vs PAK-W",
+            league: "CRICKET | T20 INTERNATIONAL 🏏",
+            stage: "10:30 AM, 31/07/2026",
+            targetDate: "2026-07-31T10:30:00",
+            urls: [
+                {server: "Server 1 (Fast Stream)", url: "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8"},
+                {server: "Server 2 (Tapmad Sports HD)", url: "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8"}
+            ],
+            team1: "SL-W",
+            team2: "PAK-W",
+            team1_flag: "https://a.espncdn.com/i/teamlogos/countries/500/sri.png",
+            team2_flag: "https://a.espncdn.com/i/teamlogos/countries/500/pak.png"
+        };
