@@ -7,8 +7,7 @@
 
 
 
-#LIVE_COUNT:7
-#UPCOMING_COUNT:0
+
 
 #EXTINF:-1 tvg-id="B0H94BC85K" tvg-name="ONE Friday Fights 165" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.962344c3-af51-4d9d-afd4-f2723e3445f4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",ONE Friday Fights 165
 #KODIPROP:inputstream=inputstream.adaptive
@@ -52,11 +51,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
-#===== AXS (12 channels) =====
-#name: Axsports Auto Update Playlist
-#telegram: https://t.me/livesportsplay
-#owner: Md Sohanur Rahman Hady
-#last update time: 7:47:27 PM 07-08-2026
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ireland%20vs%20Afghanistan.jpg" group-title="AXS", Ireland vs Afghanistan - 2nd ODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
